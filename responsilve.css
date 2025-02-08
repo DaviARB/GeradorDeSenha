@@ -1,5 +1,6 @@
 @media (max-width:765px){ 
      body{
+      margin-top: 180px;
        scale: 0.9;
      }
 }
